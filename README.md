@@ -22,4 +22,4 @@ You will see below 2 response
 2. GetAllUser() where collect all user details from all mentioned pages and return list of users.
 
 #Refer below screenshot of Console App
-![Alt text](assets/ConsoleImage.jpg)
+![Alt text](https://github.com/Abh-ay/Raftlabs-Challenge/blob/main/assets/ConsoleImage.JPG)
