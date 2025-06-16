@@ -36,3 +36,4 @@ foreach (var i in userList)
     Console.WriteLine($"{i.Id} - {i.First_Name} {i.Last_Name}");
 
 Console.WriteLine("******Calling Get All user fucntion Completed*****");
+Console.ReadLine();
